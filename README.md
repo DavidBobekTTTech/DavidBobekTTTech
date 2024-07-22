@@ -43,8 +43,7 @@ Hello! I'm David Bobek, a driven DevOps Engineer focused on leveraging technolog
 
 ## 📫 Get in Touch
 
-- LinkedIn: [davidbobek](https://www.linkedin.com/in/davidbobek/)
-- Email: david.bobek@example.com
+- LinkedIn: [davidbobek](https://www.linkedin.com/in/david-bobek/)
 
 ---
 
