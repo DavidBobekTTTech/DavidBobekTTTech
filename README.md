@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidbobek/)](https://www.linkedin.com/in/davidbobek/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/davidbobek)](https://github.com/davidbobek)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@davidbobek)](https://medium.com/@davidbobek)
 
 ## 👨‍💻 About Me
 
