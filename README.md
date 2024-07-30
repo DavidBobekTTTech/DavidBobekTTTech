@@ -22,6 +22,10 @@ Hello! I'm David Bobek, a driven DevOps Engineer focused on leveraging technolog
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-F05032?style=flat-square&logo=Tensorflow&logoColor=white)
+![Numpy](https://img.shields.io/badge/-Numpy-ADD8E6?style=flat-square&logo=Numpy&logoColor=white)
+
+
 
 - DevOps (Jenkins, Docker, Kubernetes)
 - Machine Learning (Scikit-learn, PyTorch)
